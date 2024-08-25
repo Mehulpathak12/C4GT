@@ -86,13 +86,15 @@ body:
   - type: input
     id: ticket-governance-domain
     attributes:
-      label: Domain
+      label: Governance Domain
       placeholder: Enter Area of Governance
+    validations:
+      required: true
 
   - type: dropdown
     id: ticket-technical-skills-required
     attributes:
-      label: Tech Skills Needed
+      label: Technical Skills Needed
       description: Select the technologies needed for this ticket (use Ctrl or Command to select multiple)
       multiple: true
       options:
@@ -186,6 +188,7 @@ body:
     id: ticket-mentors
     attributes:
       label: Mentor(s)
+      placeholder: Tag relevant mentors
       description: Please tag relevant mentors for the ticket
     validations:
       required: true
@@ -222,7 +225,7 @@ body:
         - Data Science
         - Deprecation
         - Documentation
-        - Delpoyment
+        - Deployment
         - Frontend
         - Internationalization
         - Localization
@@ -240,8 +243,3 @@ body:
         - Other
     validations:
       required: true
-
-  
-  
-
-  
