@@ -1,5 +1,22 @@
 ## Our Community
-
+<table>
+  <tr>
+    <td>Name</td>
+    <td>Mehul Pathak</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Mehulpathak12</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/mehul-2004-10-pathak//</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Dezyne E`cole Ajmer</td>
+  </tr>
+</table>
 <table>
   <tr>
     <td>Name</td>
